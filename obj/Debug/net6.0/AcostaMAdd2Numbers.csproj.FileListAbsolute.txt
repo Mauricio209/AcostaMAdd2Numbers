@@ -1,0 +1,15 @@
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/bin/Debug/net6.0/AcostaMAdd2Numbers
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/bin/Debug/net6.0/AcostaMAdd2Numbers.deps.json
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/bin/Debug/net6.0/AcostaMAdd2Numbers.runtimeconfig.json
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/bin/Debug/net6.0/AcostaMAdd2Numbers.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/bin/Debug/net6.0/AcostaMAdd2Numbers.pdb
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/obj/Debug/net6.0/AcostaMAdd2Numbers.csproj.AssemblyReference.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/obj/Debug/net6.0/AcostaMAdd2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/obj/Debug/net6.0/AcostaMAdd2Numbers.AssemblyInfoInputs.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/obj/Debug/net6.0/AcostaMAdd2Numbers.AssemblyInfo.cs
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/obj/Debug/net6.0/AcostaMAdd2Numbers.csproj.CoreCompileInputs.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/obj/Debug/net6.0/AcostaMAdd2Numbers.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/obj/Debug/net6.0/refint/AcostaMAdd2Numbers.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/obj/Debug/net6.0/AcostaMAdd2Numbers.pdb
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/obj/Debug/net6.0/AcostaMAdd2Numbers.genruntimeconfig.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMAdd2Numbers/obj/Debug/net6.0/ref/AcostaMAdd2Numbers.dll
